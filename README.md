@@ -18,4 +18,4 @@ The other issue with footnotes is that there are many of them and it isn't alway
 
 This work is released to the public under a [Creative Commons Atributtion-NoCommercial 3.0](https://creativecommons.org/licenses/by-nc/3.0/) license.
 
-I release my version under a (https://creativecommons.org/licenses/by-nc-sa/3.0/)[Creative Commons Attributtion-NonCommercial-ShareAlike 3.0] license.
+I release my version under a [Creative Commons Attributtion-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
