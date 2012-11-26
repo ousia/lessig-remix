@@ -29,7 +29,7 @@ Printed and bound in Great Britain by Clays Ldt, St Ives plc
 ]]]
 
 [[[ {.dedication}
-To two teachers,
+To two teachers,\
 L. Ray Patterson and Jack Valenti
 ]]]
 
@@ -654,7 +654,7 @@ But why should anyone care about whether remix flourishes, or even exists? What 
 There are two goods that remix creates, at least for us, or for our kids, at least now. One is the good of community. The other is education.
 
 
-4. Community
+#### Community
 
 Remixes happen within a community of remixers. In the digital age, that community can be spread around the world. Members of that community create in part for one another. They are showing one another how they can create, as kids on a skateboard are showing their friends how they can create. That showing is valuable, even when the stuff produced is not.
 
